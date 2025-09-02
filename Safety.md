@@ -13,6 +13,7 @@ EHS Trainings (Online):
 -----------------------
 
 - [EHS Biosafety Overview](https://ehs.psu.edu/biosafety/overview)
+- [Research Security Training](https://psu.csod.com/ui/lms-learning-details/app/course/61b5cb49-d473-4511-bedd-a5b0a12d4190)
 - [Basic Lab Safety Training](https://psu.csod.com/ui/lms-learning-details/app/curriculum/7f20e00f-85e8-4e82-a7be-683fc9038966?isOnePlayer=true)
 - [Autoclave Safety](https://psu.csod.com/ui/lms-learning-details/app/course/b861152c-d955-4c8a-8b5f-f82c2b5958f5)
 - [Regulated Medical Waste](https://psu.csod.com/ui/lms-learning-details/app/course/e4035445-b762-4126-a454-4dfaf7f3d99a)
