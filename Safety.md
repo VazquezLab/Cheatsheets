@@ -39,3 +39,14 @@ On the CITI Platform, be sure to select all the options for:
 -  **Bloodborne pathogens**
 -  **Responsible Conduct of Research (RCR)**
 -  **Shipping and Transport of Regulated Biological Materials**
+
+Researcher Safety Profile:
+--------------------------
+
+All Vazquez Lab members must complete their Research Experience Profile on [CATS Safety](https://researchsafety.psu.edu/) in order to be added to our Institutional Biosafety Committee (IBC) protocol. 
+
+I just submitted our safety documentation, and one of the last things to do is to fill out your research experience profiles. Please do the following as soon as possible - it should only take 5 minutes:
+
+  1. Go to [https://researchsafety.psu.edu/](https://researchsafety.psu.edu/)
+  2. Click on "My Profile" in the menu under your name on the top-right:
+  3. Fill out the researcher profile, including the "Experience" section. Don't wax poetic - keep it short and sweet, and use the term "over ## years" or "since MM/YYYY" when relevant so you don't need to update it every year. This is what Manny's paragraph looks like for reference: `Dr. Vazquez has over 13 years of experience in cell culture of primary and immortalized cell lines across numerous species of rodents, primates, bats,  ungulates, elephants and other afrotherian mammals, and reptiles. Dr. Vazquez has additional experience with in vivo animal work, including over 13 years of experience with Mus musculus (handling, husbandry, euthanasia, and necropsy), 2 years of experience with Heterocephalus glaber (handling, husbandry, euthanasia, and necropsy), and 4 years of experience with bats (wild handling, skin biopsy sampling).`
