@@ -13,3 +13,4 @@ Links:
 - [Cell Culture Learning Materials](https://github.com/VazquezLab/Cheatsheets/blob/main/CellCultureLearning.md): a list of helpful online videos to get you into the cell culture room faster, plus some examples of in-person training offered occasionally by PSU and other institutions. 
 - [Field Work](https://github.com/VazquezLab/Cheatsheets/blob/main/FieldWork.md): a list of classes offered by PSU and other groups in central PA for field work, including Wilderness First Aid/Responder training.
 - [Student Resources](https://github.com/VazquezLab/Cheatsheets/blob/main/StudentResources.md): Some helpful resources at PSU for students.
+- [Windows Subsystem for Linux Setup](https://github.com/VazquezLab/Cheatsheets/blob/main/WSL2SetupGuides.md): A list of guides for setting up and using WSL.
