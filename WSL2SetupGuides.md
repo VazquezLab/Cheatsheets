@@ -15,3 +15,5 @@ Once configured, you will be able to run Ubuntu\* on your Windows PC without nee
 
 **Guide 3 - Running Guppy on WSL to analyze Nanopore data:** [https://hackmd.io/@Miles/rkYKDHPsO](https://hackmd.io/@Miles/rkYKDHPsO)
 *(Technically not a guide for WSL on its own, but has links to many other resources)*
+
+**How to back-up your WSL instance:** [https://scottspence.com/posts/backup-ubuntu-wsl-instances](https://scottspence.com/posts/backup-ubuntu-wsl-instances)
