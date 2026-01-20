@@ -30,6 +30,7 @@ Additional config options for Ubuntu on WSL2
 7. Open up your terminal, and do the following:
     1. Create dedicated project and data directories in your home directory: `mkdir ~/{data,projects}`. If you learn nothing else in my lab, at least let this be the start of a good data hygine habit.
     2. Create an SSH key: `ssh-keygen -t ed25519 -C "<your psu.edu email here>"`. **It is EXTREMELY important to GitHub to make sure that your SSH key has a passphrase!** Just note that this shouldn't be a super-intense password - but also don't make it "P455W0RD" or something else that's trivial.
+    3. Create a GPG key: `gpg --full-generate-key`. Same considerations apply as the SSH key, but arguably even more important since this will, effectively, be your personal signature online.
 8. If you're like me and you're easily bored and need *\*shiny\** to code:
     1. Install [OhMyZSH](https://github.com/ohmyzsh/ohmyzsh)
     2. Install either [Powerline10K](https://github.com/romkatv/powerlevel10k) or [Starship](https://starship.rs/guide/). Powerline10K works right out of the box, but Starship is the hip new thing and is more powerful in theory, but requires more training than I care to do tbh.
